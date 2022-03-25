@@ -1,4 +1,10 @@
 body{
-    columns: #d8d8d8;
-    background-color: aquamarine
+    color: #d8d8d8;
+    background-color: red
+}
+#logo img{
+    width: 150px;
+    border: 2px solid #d8d8d8;
+    border-radius: 20px;
+  
 }

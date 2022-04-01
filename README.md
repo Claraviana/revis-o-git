@@ -11,6 +11,7 @@ Ideal para destacar trecho com código!
 #título
 ##Subtítulo
 *Itálico*
+```
 
 como colocar código, pode -se colocar o nome da linguagem após as crases como no exemplo abaixo:
 ```css
@@ -22,8 +23,11 @@ como colocar código, pode -se colocar o nome da linguagem após as crases como 
 <h1>título de nível</h1>
 ```
 Lista de tarefas a fazer no repositório:
+
 -[ ] Melhorar a documentação dp repositório 
+
 -[ ] Ler a documentação sobre o *markdown*
+
 -[ ] Ler a documentação do git/github
 
 ##Referêcias 
